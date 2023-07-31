@@ -11,11 +11,13 @@ I have 3 years experience in analysis, 1,5 at the bank as Market Data Analyst an
 **Courses:**
 
 Python 3 - od podstaw do eksperta - Udemy
+
 Automation testing in Python - DareIT
 
 **Tools:**
 
 xPath Finder - xPath finding tool
+
 Selenium IDE - Open source record and playback test automation for the web (entry level)
 PyCharm
 
