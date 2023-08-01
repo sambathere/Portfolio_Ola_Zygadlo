@@ -16,10 +16,13 @@ Automation testing in Python - DareIT
 
 **Tools:**
 
-xPath Finder - xPath finding tool
+xPath Finder 
 
-Selenium IDE - Open source record and playback test automation for the web (entry level)
+Selenium IDE 
+
 PyCharm
+
+GitHub
 
 **Skills:**
 
