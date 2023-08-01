@@ -25,6 +25,16 @@ PyCharm
 
 Python (entry level)
 
+  Pandas library
+  data sets, loops, functions
+  conditional statements
+  JSON, pip, PyPi, API
+  Visual Studio Code
+
+SQL
+
+Excel
+
 **Books:**
 
 Mark Lutz - Python - wprowadzenie
