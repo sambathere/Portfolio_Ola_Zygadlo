@@ -2,11 +2,11 @@
 
 **About me:**
 
-My name is Ola Zygadlo and I am Senior Market Data Analyst at the Swiss Bank. Given my previous experince I decided to take the next step and learn Python as my first programming language. I am continously learning in my free time within Udemy course or O'Reilly book - Python - introduction. Originally I purseued with learning Python specifically for Big Data Analysis and API, although on the way, I discovered Testing and decided to get to know it better. Currently I am passionate about automation testing and eager to learn more.
+My name is Ola Zygadlo and I am IT Business Analyst at the Swiss Bank. Given my previous experince I decided to take the next step and learn Python as my first programming language. I am continously learning in my free time within Udemy course or O'Reilly book - Python - introduction. Originally I purseued with learning Python specifically for Big Data Analysis and API, although on the way, I discovered Testing and decided to get to know it better. Currently I am passionate about automation testing and eager to learn more.
 
 **My experience:**
 
-I have 3 years experience in analysis, 1,5 at the bank as Market Data Analyst and 1,5 at the logistic company as Business Relationship Specialist. 
+I have 4 years experience in analysis, 2,5 at the bank as Market Data Analyst and 1,5 at the logistic company as Business Relationship Specialist. 
 
 **Courses:**
 
